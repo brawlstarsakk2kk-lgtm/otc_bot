@@ -1,0 +1,1 @@
+def check_nft(collection, nft_id): # фейковая проверка return {"rarity": 75, "price_eth": 0.5, "buyback": 0.45}def verify_payment(tx_hash): return True
